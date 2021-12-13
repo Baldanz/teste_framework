@@ -1,0 +1,14 @@
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.exe
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.deps.json
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.runtimeconfig.json
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.runtimeconfig.dev.json
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.dll
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\bin\Debug\netcoreapp3.1\TesteFramework.pdb
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.csproj.AssemblyReference.cache
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.AssemblyInfoInputs.cache
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.AssemblyInfo.cs
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.csproj.CoreCompileInputs.cache
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.dll
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.pdb
+C:\ArckDan\Projetos\TesteFramework\TesteFramework.Console\TesteFramework.Console\obj\Debug\netcoreapp3.1\TesteFramework.genruntimeconfig.cache
